@@ -1,0 +1,68 @@
+  
+html {
+  font-size: 12px;
+  font-color: black;
+
+}
+
+h1 {
+  font-size: 2em;
+  font-color: black;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.5em;
+  }
+h3 {
+  font-size: 1em;
+  
+}
+h2, h3 {
+  Font-color: darkgrey;
+  font-weight: normal;
+}
+
+.PictureAndText, .PicAndTextUnit, .PictureRow {
+  text-align: right;
+}
+
+.BackgroundBlock{
+  background-color: litepink;
+  text-align: right;
+  padding: 10px;
+  display: block;
+  
+}
+
+.PictureRow {
+  width: 70%;
+  max-width: 1280px;
+  min-width: 480px;
+  margin: 10px auto;
+  display: block;
+  
+  
+}
+
+.PictureAndText {
+  width: auto;
+  margin: 10px;
+  
+
+  
+  
+  
+}
+
+.PictureAndTextUnit{
+  margin: auto;
+  width: 100%;
+  display: block;
+ }
+
+.ThumbnailBlock{
+  margin: auto;
+  width: 100%;
+  corner-radius: 5px;
+}

@@ -1,0 +1,6 @@
+image size
+
+border radius
+
+margin
+
